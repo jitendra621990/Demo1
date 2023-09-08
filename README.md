@@ -1,2 +1,2 @@
 # Demo1
-This ig for tutorial only
+This is for tutorial only
